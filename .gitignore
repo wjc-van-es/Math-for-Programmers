@@ -1,3 +1,14 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+
+# IntelliJ files
+*.iml
+.idea/
+
+# image files output
+*.svg
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
